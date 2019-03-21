@@ -27,27 +27,27 @@ de implementar, así que si no se necesitan los coeficientes es más fácil hace
 
 ### A*
 
-Algoritmo para encontrar un camino de coste mínimo que vaya de un nodo $$N_1$$ a otro nodo $$N_2$$ en un grafo $$G$$.
-Hace falta una heurística $$h(n)$$ que estime cual es el coste mínimo desde $$n$$ hasta el objetivo, $$N_2$$.
+Algoritmo para encontrar un camino de coste mínimo que vaya de un nodo N_1 a otro nodo N_2 en un grafo G.
+Hace falta una heurística h(n) que estime cual es el coste mínimo desde n hasta el objetivo, N_2.
 
 [Pseudocódigo](https://en.wikipedia.org/wiki/A*_search_algorithm#Pseudocode)
 
 ### Dijkstra
 
-Igual que el A*, este algoritmo encuentra un camino de coste mínimo que vaya de un nodo $$N_1$$ a otro nodo $$N_2$$ en un grafo $$G$$,
-pero esta vez no hace falta una función heurística $$h$$. De hecho, este algoritmo no es más que un A* donde la heurística es la función 0.
+Igual que el A*, este algoritmo encuentra un camino de coste mínimo que vaya de un nodo N_1 a otro nodo N_2 en un grafo G,
+pero esta vez no hace falta una función heurística h. De hecho, este algoritmo no es más que un A* donde la heurística es la función 0.
 
 [Pseudocódigo](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm#Pseudocode)
 
 ### Kruskal
 
-Encuentra el [árbol generador minimal](https://en.wikipedia.org/wiki/Minimum_spanning_tree) de un grafo $$G$$.
+Encuentra el [árbol generador minimal](https://en.wikipedia.org/wiki/Minimum_spanning_tree) de un grafo G.
 
 [Pseudocódigo](https://en.wikipedia.org/wiki/Kruskal%27s_algorithm#Pseudocode)
 
 ### Floyd-Marshall
 
-Encuentra la longitud del camino más corto entre todos los posibles pares de vértices en un grafo $$G$$.
+Encuentra la longitud del camino más corto entre todos los posibles pares de vértices en un grafo G.
 
 [Pseudocódigo](https://en.wikipedia.org/wiki/Floyd%E2%80%93Warshall_algorithm#Pseudocode_[11]_:)
 
