@@ -4,12 +4,6 @@ También se incluyen algunos resultados que pueden ser útiles.
 
 ## Algoritmos básicos
 
-### Criba de Eratóstenes
-
-Permite encontrar la lista de todos los primos por debajo de un natural fijo.
-
-[Pseudocódigo](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes#Pseudocode)
-
 ### Algoritmo de Euclides
 
 Encuentra el máximo común divisor entre dos números.
@@ -23,6 +17,22 @@ de implementar, así que si no se necesitan los coeficientes es más fácil hace
 
 [Pseudocódigo](https://en.wikipedia.org/wiki/Extended_Euclidean_algorithm#Pseudocode)
 
+## Algoritmos de primalidad
+
+### Criba de Eratóstenes
+
+Permite encontrar la lista de todos los primos por debajo de un natural fijo.
+
+[Pseudocódigo](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes#Pseudocode)
+
+### Rho de Polard
+
+Algoritmo para factorizar enteros de forma más rápida que a fuerza bruta.
+
+[Pseudocódigo](https://en.wikipedia.org/wiki/Pollard%27s_rho_algorithm#Algorithm)
+
+[Implementación en Julia](https://github.com/programacion-competitiva/Algoritmos-utiles/tree/master/Rho de Polard/Julia)
+
 ## Algoritmos de grafos
 
 ### A*
@@ -32,7 +42,7 @@ Hace falta una heurística h(n) que estime cual es el coste mínimo desde n hast
 
 [Pseudocódigo](https://en.wikipedia.org/wiki/A*_search_algorithm#Pseudocode)
 
-[Implementación en Julia](https://github.com/nacheteam/cec2014/tree/master/A★/Julia)
+[Implementación en Julia](https://github.com/programacion-competitiva/Algoritmos-utiles/tree/master/A★/Julia)
 
 ### Dijkstra
 
