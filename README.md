@@ -31,7 +31,7 @@ Algoritmo para factorizar enteros de forma más rápida que a fuerza bruta.
 
 [Pseudocódigo](https://en.wikipedia.org/wiki/Pollard%27s_rho_algorithm#Algorithm)
 
-[Implementación en Julia](https://github.com/programacion-competitiva/Algoritmos-utiles/tree/master/Rho de Polard/Julia)
+[Implementación en Julia]("https://github.com/programacion-competitiva/Algoritmos-utiles/tree/master/Rho de Polard/Julia")
 
 ## Algoritmos de grafos
 
