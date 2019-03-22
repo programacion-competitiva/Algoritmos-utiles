@@ -87,5 +87,5 @@ A★(s, g, neigh, h = n -> length(findall(n .!= g)))
 ```
 
 
-<a target='_blank' href='https://github.com/programacion-competitiva/Algoritmos-utiles/blob/74f74d32638a6cc86853c583f2a28ef67bfaa29d/A★/Julia/AStar.jl#L6-L86' class='documenter-source'>source</a><br>
+<a target='_blank' href='https://github.com/programacion-competitiva/Algoritmos-utiles/blob/b0dbf8cdf01f73e0d756d473dbc5276f6bdcb8f9/A★/Julia/AStar.jl#L6-L86' class='documenter-source'>source</a><br>
 

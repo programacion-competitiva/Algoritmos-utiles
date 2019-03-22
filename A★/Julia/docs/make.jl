@@ -12,4 +12,4 @@ makedocs(
 	repo = ""
 )
 
-cp("build/doc.md", "../doc.md", force=true)
+cp("build/doc.md", "../README.md", force=true)
