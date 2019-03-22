@@ -31,6 +31,7 @@ Algoritmo para encontrar un camino de coste mínimo que vaya de un nodo N_1 a ot
 Hace falta una heurística h(n) que estime cual es el coste mínimo desde n hasta el objetivo, N_2.
 
 [Pseudocódigo](https://en.wikipedia.org/wiki/A*_search_algorithm#Pseudocode)
+[Implementación en Julia](https://github.com/nacheteam/cec2014/tree/master/A★/Julia)
 
 ### Dijkstra
 
