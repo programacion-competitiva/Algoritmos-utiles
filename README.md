@@ -96,3 +96,9 @@ Factoriza una matriz como producto de una triangular inferior por otra triangula
 Fórmula que permite saber en qué día de la semana cayó una fecha solo con el mes, día y año. La pongo en la lista porque, sin esto, este tipo de ejercicios son bastante complicados. Basta con recordar que existe.
 
 [Fórmula](https://en.wikipedia.org/wiki/Zeller%27s_congruence#Implementation_in_software)
+
+### Algoritmo de MO
+
+Algoritmo que resuelve M preguntas sobre intervalos de un vector de N elementos en tiempo O(N*√N). Es necesario para algunos problemas de Hackerrank.
+
+[Explicación](https://blog.anudeep2011.com/mos-algorithm)
