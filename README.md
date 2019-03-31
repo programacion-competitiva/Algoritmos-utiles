@@ -31,6 +31,13 @@ Algoritmo para factorizar enteros de forma más rápida que a fuerza bruta.
 
 [Pseudocódigo](https://en.wikipedia.org/wiki/Pollard%27s_rho_algorithm#Algorithm)
 
+
+### Criba cuadrática
+
+Algoritmo para factorizar enteros, es el algoritmo más rápido para números que tengan cien dígitos o menos. Es bastante complicado de implementar.
+
+[Pseudocódigo y explicación](http://micsymposium.org/mics_2011_proceedings/mics2011_submission_28.pdf)
+
 ## Algoritmos de grafos
 
 ### A*
