@@ -1,7 +1,7 @@
 
 <a id='Documentación-A-1'></a>
 
-# Documentación A★
+# Documentación Rho de Pollard
 
 
 
@@ -46,4 +46,3 @@ fact(261)
 # output
 (3, (3, 29))
 ```
-

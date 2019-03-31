@@ -66,6 +66,20 @@ Encuentra la longitud del camino más corto entre todos los posibles pares de v�
 
 [Pseudocódigo](https://en.wikipedia.org/wiki/Floyd%E2%80%93Warshall_algorithm#Pseudocode_[11]_:)
 
+## Algoritmos de ordenación
+
+### Mergesort
+
+Algoritmo de ordenación que es un ejemplo de estructura de divides y vencerás.
+
+[Pseudocódigo](https://en.wikipedia.org/wiki/Merge_sort)
+
+### Quicksort
+
+Algoritmo de ordenación, es uno de los más eficientes en media.
+
+[Pseudocódigo](https://en.wikipedia.org/wiki/Quicksort#Algorithm)
+
 ## Algoritmos para juegos de suma cero
 
 ### Minimax
